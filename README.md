@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 Simple IOT Projects(7)
 ======================
 
@@ -129,3 +130,7 @@ Here ESP8266-01, operates in 3.3V, to connect it to wifi – Connect CH_PD to 3.
 ![](media/d6e6f40a819873d56de1649d715d16f6.png)
 
 ![](media/9a3ffc290fa7358559b9477232886a99.png)
+=======
+# Simple IOT Projects(7)
+                   
+>>>>>>> 309a21c22f10596bd58a1135821c7854200cadc3
